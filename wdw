@@ -1,1 +1,6 @@
-efe
+SETUP XAMPP SERVER 
+Start Apache
+Start Mysql
+open PHPMyAdmin
+create required tables for this to store data collected from respective web-pages.
+Open in browser localhost/homepage.php file .
